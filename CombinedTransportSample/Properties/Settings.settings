@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CombinedTransportSample.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Token" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="XLocate" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://xlocate-tln-eu-n-test.cloud.ptvgroup.com/xlocate/ws/XLocate</Value>
+    </Setting>
+    <Setting Name="XMap" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://xmap-tln-eu-n-test.cloud.ptvgroup.com/xmap/ws/XMap</Value>
+    </Setting>
+    <Setting Name="XRoute" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://xroute-tln-eu-n-test.cloud.ptvgroup.com/xroute/ws/XRoute</Value>
+    </Setting>
+    <Setting Name="SeachRange" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
